@@ -1,0 +1,13 @@
+{
+  "name": "thisless",
+  "version": "1.0.0",
+  "description": "allow using classes as blank objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --test.js"
+  },
+  "devDependencies": {
+    "jest": "*",
+    "mobx-state-tree": "*"
+  }
+}
